@@ -1,0 +1,16 @@
+clave API
+iBUMsYhOnEiCheMpAcryXTVdz
+
+clave secreta de API
+qltoXBIqtGBOQXUHuMBV6TRjZmhaY2yfjcVgvYJ9pIQ5ca18As
+
+token de portador
+AAAAAAAAAAAAAAAAAAAAANJZQQEAAAAAxfEkSeYh84%2BDxx2%2FHglOHJ4Z%2Bok%3DvFlyElKMDHfM6J2vierhwledYhD4jY5rgiZQPp2myC8MSPdP79
+
+
+
+Access Token
+808108432486236162-sAgaq0txJyp1KNnQRdLZ75yBB88VXKC
+
+Access token Secret
+AEn3jGo8OsW2mdwqvpPLBflMPXGV02Den0NhE5sZXvIrr
